@@ -20,8 +20,8 @@ def caesar_cipher(string, shift_factor)
     char_map.join('')
 end
 
-print :"Text: "
-string = gets
-print :"Shift Factor: "
-shift_factor = gets.to_i
-puts caesar_cipher(string, shift_factor)
+# print :"Text: "
+# string = gets
+# print :"Shift Factor: "
+# shift_factor = gets.to_i
+# puts caesar_cipher(string, shift_factor)
